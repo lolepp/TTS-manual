@@ -4,19 +4,19 @@ First of all besides Python, which you to have installed, you need to run:
 
     pip install gtts
     pip install pydub
+and
+
     pip install ffmpeg
+(does not really work sadly)
 
 Directory management:
 
-    audio (here your generated audio files will be stored)
+    audio (your generated audio files will be stored here)
       mp3
-        de
-        en
       wav
-        de
-        en
-    text (here your given text files need to be stored) 
+    text (your given text files need to be stored here) 
       de
       en
+      ru
     delete_audio.py
     tts.py

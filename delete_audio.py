@@ -1,7 +1,7 @@
 import os
 
 # Directories where audio files are located
-libs = ["audio/wav/en/", "audio/wav/de/", "audio/mp3/en/", "audio/mp3/de/"]
+libs = ["audio/wav/", "audio/mp3/"]
 
 # List all files in the directory
 for lib in libs:
