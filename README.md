@@ -1,6 +1,6 @@
 Script that includes a python script that turns text files into wav files using the Google TTS API and also a script to delete the generated audio.
 
-First of all besides Python, which you to have installed, you need to run:
+First of all besides Python, which you need to have installed, you need to run:
 
     pip install gtts
     pip install pydub
